@@ -1,0 +1,24 @@
+form {
+  display: flex;
+  align-items: center;
+  margin: 100px auto;
+  width: 1000px;
+}
+input {
+  height: 50px;
+  width: 400px;
+  border: solid 1px rgba(0, 0, 0, 0.4);
+  box-sizing: border-box;
+  outline: none;
+  padding: 0 10px;
+  font-size: 18px;
+}
+
+button {
+  height: 50px;
+  padding: 0 30px;
+  background-color: fuchsia;
+  border: none;
+  font-size: 23px;
+  margin-left: 10px;
+}
